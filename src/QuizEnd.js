@@ -11,6 +11,4 @@ class QuizEnd extends Component {
   }
 }
 
-const isQuizEnd =  {quizData.quiz_questions.length == quiz_position - 1}  
-
 export default QuizEnd;
